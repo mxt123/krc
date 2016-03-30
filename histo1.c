@@ -24,5 +24,4 @@ main()
                         printf("#");
                 printf("\n");
         }
-        //printf(", white space = %d, other = %d\n", nwhite, nother);
 }
